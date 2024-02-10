@@ -54,10 +54,10 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 
 #### Employee:
-[](wex1.png)
+![](wex1.png)
 
 #### Weather:
-[](wex11.png)
+![](wex11.png)
 
 ### PREPROCESSING
 ### Procedure:
@@ -80,10 +80,10 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 
 #### Employee:
-[](wex111.png)
+![](wex111.png)
 
 #### Weather:
-[](wex1111.png)
+![](wex1111'.png)
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -102,10 +102,10 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 
 #### Employee:
-[](wex11111.png)
+![](wex11111.png)
 
 #### Weather:
-[](wex111111.png)
+![](wex111111.png)
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -124,10 +124,10 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 
 #### Employee:
-[](wex1111111.png)
+![](wex1111111.png)
 
 #### Weather:
-[](wex11111111.png)
+![](wex11111111.png)
 
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
